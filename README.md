@@ -28,8 +28,6 @@ The dashboard provides insights into:
 - Revenue Analysis
 - Passenger Analytics
 - Flight Delay Monitoring
-- Dynamic Filters and Slicers
-- Drill-down Reports
 - KPI Cards
 - DAX Measures
 - Power Query Data Transformation
@@ -41,13 +39,10 @@ The dashboard provides insights into:
 - Total Flights
 - Total Passengers
 - Total Revenue
-- Average Revenue per Flight
-- Average Revenue per Passenger
-- On-Time Performance
-- Delay Percentage
-- Airport Traffic Analysis
-- Flight Distribution
-- Revenue Trend Analysis
+- Average Delay
+- Frequent Flyer Rate %
+- On-Time Rate %
+- Average Passenger Satisfaction Score
 
 ---
 
